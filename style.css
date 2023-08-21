@@ -14,7 +14,7 @@ h1 {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
-    font-size: 40px;    
+    font-size: 1.5em;    
 }
 
 /* loader */
@@ -33,4 +33,15 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+/* iamge container */
+
+.image-container {
+    margin: 10px;
+}
+
+.image-container img {
+    width: 100%;
+    margin-top: 5px;
 }
