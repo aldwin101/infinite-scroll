@@ -62,4 +62,13 @@ h1 {
         width: 100%;
         margin-top: 20px;
     }
-  }
+}
+
+
+                        /* desktop */
+
+@media only screen and (min-width: 780px) {
+    .image-container {
+        margin: 10px 25%;
+    }
+}
