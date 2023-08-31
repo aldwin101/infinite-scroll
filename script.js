@@ -1,4 +1,3 @@
-const { api_key } = require("./config");
 
 // API url
 const count = 10;
