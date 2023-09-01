@@ -1,3 +1,4 @@
+import { api_key } from './config.js';
 
 // API url
 const count = 10;
